@@ -39,6 +39,7 @@ def main():
 
     while input("\nOpen file? (y/n): ") == "y":
         Random_File().open()
+    print("\n")
     sys.exit()
 
 
